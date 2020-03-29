@@ -1,1 +1,1 @@
-# SimpleGetAtributteValueFromXml
+# SimpleGetAttributeValueFromXml
